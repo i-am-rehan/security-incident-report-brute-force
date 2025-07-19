@@ -12,8 +12,8 @@ This repository documents a cybersecurity incident involving a brute force attac
 | File Name                  | Description |
 |---------------------------|-------------|
 | `scenario.md`             | Background story of the incident |
-| `tcpdump-traffic-log.txt` | Raw network capture using tcpdump |
-| `incident-report.md`      | Final formal security incident report |
+| `tcpdump traffic log.md` | Raw network capture using tcpdump |
+| `Security incident report.md`      | Final formal security incident report |
 
 ---
 
